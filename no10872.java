@@ -1,8 +1,9 @@
 package baekjoon;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class Main {
+public class no10872 {
+
     public static int fact(int num) {
         if (num == 1) {
             return 1;
@@ -21,5 +22,4 @@ public class Main {
         }
         sc.close();
     }
-
-    }
+}
